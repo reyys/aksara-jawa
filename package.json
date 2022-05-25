@@ -2,6 +2,7 @@
   "name": "translate-new",
   "version": "1.0.0",
   "description": "",
+  "type": "module",
   "main": "index.js",
   "dependencies": {
     "clone-regexp": "^3.0.0",
