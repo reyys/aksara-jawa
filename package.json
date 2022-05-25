@@ -7,7 +7,8 @@
   "dependencies": {
     "clone-regexp": "^3.0.0",
     "is-regexp": "^3.1.0",
-    "string-match-all": "^1.1.1"
+    "string-match-all": "^1.1.1",
+    "carakanjs": "^1.1.2"
   },
   "devDependencies": {
     "carakanjs": "^1.1.2"
