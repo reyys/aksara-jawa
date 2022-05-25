@@ -1,4 +1,4 @@
-import { toJavanese } from "./node_modules/carakanjs/dist/esm/index.js";
+import { toJavanese } from "/node_modules/carakanjs/dist/esm/index.js";
 
 const textJawa = document.querySelector('.text-jawa');
 const inputJawa = document.querySelector('.jawa')
